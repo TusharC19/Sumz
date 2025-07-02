@@ -10,8 +10,19 @@
     well-designed article summarizer web application using openAI's GPT-4 model powered by Rapid API - built with React & Redux.js
   </p>
 
+<br />
 
 <!-- Table of Contents -->
+<details>
+
+<summary>
+
+# :notebook_with_decorative_cover: Table of Contents
+
+</summary>
+
+
+
 </details>  
 
 <!-- About the Project -->
@@ -25,7 +36,7 @@
 This repository houses a well-designed Article Summarizer Web Application built with React & Redux.js using OpenAI's GPT-4 model powered by Rapid API 🤖
 
 <!-- Folder Structure -->
-###  Folder Structure
+### :bangbang: Folder Structure
 
 Here is the folder structure of GPT4 Summarizer Web.
 ```bash
@@ -111,9 +122,6 @@ Go to root folder and execute the following command in order to run the webapp:
 ```bash
   npm run dev
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
 
