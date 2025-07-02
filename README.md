@@ -81,7 +81,7 @@ VITE_RAPID_API_KEY=<RAPID_API_KEY>
 Download or clone this repo by using the command below:
 
 ```bash
- https://github.com/ladunjexa/GPT4-Summarizer-Web.git
+ https://github.com/TusharC19/Sumz/tree/main
 ```
 
 #### Step 2:
