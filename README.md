@@ -1,40 +1,31 @@
-<a name="readme-top"></a>
-<div align="center">
+# GPT-4 Summarizer Web
 
-  <h1>GPT-4 Summarizer Web</h1>
-  
-  <p>
-    well-designed article summarizer web application using openAI's GPT-4 model powered by Rapid API - built with React & Redux.js
-  </p>
+A well-designed article summarizer web application using OpenAI's GPT-4 model powered by Rapid API — built with React & Redux.js.
 
-<br />
+---
 
-<!-- Table of Contents -->
-<details>
+## 🗂️ Table of Contents
 
-<summary>
+- [About the Project](#about-the-project)
+- [Folder Structure](#folder-structure)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Environment Variables](#environment-variables)
+  - [Installation](#installation)
+  - [Run Locally](#run-locally)
+- [Acknowledgements](#acknowledgements)
 
-# :notebook_with_decorative_cover: Table of Contents
+---
 
-</summary>
-
-
-
-</details>  
-
-<!-- About the Project -->
-## :star2: About the Project
-
-<div align="center">
-  <img src="readme_assets/mock.png" height="auto" width="90%"/>
-</div>
-<br />
+## ⭐ About the Project
 
 This repository houses a well-designed Article Summarizer Web Application built with React & Redux.js using OpenAI's GPT-4 model powered by Rapid API 🤖
 
-<!-- Folder Structure -->
-### :bangbang: Folder Structure
+![Preview](readme_assets/mock.png)
 
+---
+
+## 📁 Folder Structure
 Here is the folder structure of GPT4 Summarizer Web.
 ```bash
 GPT4-Summarizer-Web/
